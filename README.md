@@ -1,18 +1,14 @@
 <p align="center">
-  <a href="https://github.com/SaloniSharma2001">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="SALONI SHARMA" /></a>
+SALONI SHARMA
 </p>
-### Hola Amigos, Saloni here 👋
 
-**SaloniSharma2001/SaloniSharma2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola Amigos, Saloni here 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently learning UI/UX
+- 👯 I’m looking to collaborate on System Design
+- 🤔 I’m looking for help with Research Papers
+- 💬 Ask me about anything abour CRM
+- 📫 How to reach me: will let you know
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My job survives on CTRL+C & CTRL+V
