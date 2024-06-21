@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=76&duration=3000&pause=1000&color=9E0808DB&background=4116164B&center=true&vCenter=true&random=false&width=675&height=90&lines=%E2%84%8C%F0%9D%94%AC%F0%9D%94%A9%F0%9D%94%9E+%F0%9D%94%84%F0%9D%94%AA%F0%9D%94%A6%F0%9D%94%A4%F0%9D%94%AC%F0%9D%94%B0+!!" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=76&duration=3000&pause=1000&color=9E0808DB&background=4116164B&center=true&vCenter=true&random=false&width=675&height=90&lines=%E2%84%8C%F0%9D%94%AC%F0%9D%94%A9%F0%9D%94%9E+%F0%9D%94%84%F0%9D%94%AA%F0%9D%94%A6%F0%9D%94%A4%F0%9D%94%AC%F0%9D%94%B0+!!" alt="Typing SVG">
   
 <p align="center">
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_Hola_Amigos.gif">
