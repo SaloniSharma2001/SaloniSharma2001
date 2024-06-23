@@ -38,17 +38,21 @@
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FF0800&size=22)
-
+<div>
 <img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/My_work.gif">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FF0800&size=22)
+  
 
+<p>
+  
 - Working on the security of international trade and transportation of products. 
 
 - Building decentralized applications to avoid third-party interference.
 
-- Implemented a streaming application with tag-based search functionality.
-
+- Implemented a streaming application with tag-based search functionality. 
+</p>
+</div>
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
