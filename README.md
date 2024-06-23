@@ -12,7 +12,7 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&duration=3000&pause=1000&color=B90E0A&random=false&width=1100&lines=Who%E2%80%99s+Behind+the+Keyboard%3F;A+tech+geek+who+believes+there%E2%80%99s+no+problem+a+good+Wi-Fi+signal+and+some+caffeine+can%E2%80%99t+solve!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&size=22&duration=3000&pause=1000&color=FF0800&random=false&width=1100&lines=Who%E2%80%99s+Behind+the+Keyboard%3F;A+T-geek+who+believes+there%E2%80%99s+no+problem+a+good+Wi-Fi+signal+and+some+caffeine+can%E2%80%99t+solve!)
 
 
 <ul style="list-style-type: none; padding: 0;">
@@ -24,7 +24,7 @@
     <li>👯 I’m looking to collaborate on System Design</li>
     <li>🤔 I’m looking for help with Research Papers</li>
     <li>💬 Ask me about nothing for the time being ;)</li>
-    <li>📫 How to reach me: will let you know</li>
+    <li>📫 How to reach me: I will let you know</li>
     <li>😄 Pronouns: SHE/HER</li>
     <li>⚡ Fun fact: My job survives on CTRL+C & CTRL+V</li>
   </ul>
@@ -34,7 +34,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=B90E0AFF)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FF0800&size=22)
 
  
 - Working on zero-shot urban object recognition. 
@@ -47,7 +47,7 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&duration=3000&pause=1000&color=B90E0A&random=false&width=435&lines=Connect+with+Me;While+I%E2%80%99m+Still+a+Human+and+Not+a+Robot)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&size=22&duration=3000&pause=1000&color=FF0800&random=false&width=500&lines=Connect+with+Me;While+I%E2%80%99m+Still+a+Human+and+Not+a+Robot)
 <img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Connection-logo-unscreen.gif">
 <p align="left">
 <a href="https://www.linkedin.com/in/salonisharma2001/" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Linkdein_logo.gif" alt="Linkedin" height="50" width="50"/></a>
@@ -60,7 +60,8 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-<h3 align="left">Languages & Skills:</h3>
+<!--<h3 align="left">Languages & Skills:</h3> -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Languages+And+Skills:&color=FF0800&size=22)
 
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -71,7 +72,8 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-<h3 align="left">Tools & Frameworks:</h3>
+<!--<h3 align="left">Tools & Frameworks:</h3> -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+And+FrameWorks:&color=FF0800&size=22)
 <p align="left"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -81,7 +83,8 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-<h3 align="left">Some GitHub Statistics:</h3>
+<!--<h3 align="left">Some GitHub Statistics:</h3> -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+GitHub+Statistics:&color=FF0800&size=22)
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniSharma2001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=shadow_red&title_color=F40009&text_color=bebebe&icon_color=9E0808DB" width="400" height="250" alt="SaloniSharma2001" />
