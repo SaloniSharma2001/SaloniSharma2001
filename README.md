@@ -12,13 +12,16 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&size=22&duration=3000&pause=1000&color=FF0800&random=false&width=1100&lines=Who%E2%80%99s+Behind+the+Keyboard%3F;A+T-geek+who+believes+there%E2%80%99s+no+problem+a+good+Wi-Fi+signal+and+some+caffeine+can%E2%80%99t+solve!)
+<div>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&size=22&duration=3000&pause=1000&color=FF0800&random=false&width=1100&lines=Who%E2%80%99s+Behind+the+Keyboard%3F;A+T-geek+who+believes+there%E2%80%99s+no+problem+a+good+Wi-Fi+signal+and+some+caffeine+can%E2%80%99t+solve!)
 
-
+ 
 <ul style="list-style-type: none; padding: 0;">
   <p  align="left">
-  Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/wave.gif" alt="Hello waving" width="25" style="vertical-align: middle; margin-right: 10px;">
+  Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/wave.gif" alt="Hello waving" width="25" style="vertical-align: middle; margin-right: 10px;">    
 </p>
+<img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/giphy.webp">
     <li>🔭 I’m currently working on MERN stack</li>
     <li>🌱 I’m currently learning UI/UX</li>
     <li>👯 I’m looking to collaborate on System Design</li>
@@ -29,6 +32,8 @@
     <li>⚡ Fun fact: My job survives on CTRL+C & CTRL+V</li>
   </ul>
 
+</div>
+
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
@@ -36,13 +41,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FF0800&size=22)
 
- 
-- Working on zero-shot urban object recognition. 
 
-- Computer Vision: developed a regularization technique for Single Image Super Resolution and Convolutional Neural Networks in low data regimes.
+- Working on the security of international trade and transportation of products. 
 
-- Implemented SAR image despeckling algorithm with faster convergence for real-time image processing.
+- Building decentralized applications to avoid third-party interference.
 
+- Implemented a streaming application with tag-based search functionality.
 
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
@@ -67,6 +71,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>
 
 
@@ -92,3 +98,9 @@
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SaloniSharma2001&label=Profile%20views&color=F40009&style=flat" alt="SaloniSharma2001" />
+
+
+<img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=300&duration=2000&pause=2000&color=FF0800&random=false&width=1300&lines=If+I+had+a+penny+for+every+line+of+code+I've+written%2C+I'd+be+dropping+beats+as+a+DJ+instead+of+debugging!")
+<img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg">
