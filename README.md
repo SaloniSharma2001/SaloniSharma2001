@@ -12,10 +12,13 @@
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Primary+Interests:&color=00FF00)
-Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/wave.gif" alt="Hello waving" width="25" style="vertical-align: middle; margin-right: 10px;">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&duration=3000&pause=1000&color=B90E0A&random=false&width=1100&lines=Who%E2%80%99s+Behind+the+Keyboard%3F;A+tech+geek+who+believes+there%E2%80%99s+no+problem+a+good+Wi-Fi+signal+and+some+caffeine+can%E2%80%99t+solve!)
+
 
 <ul style="list-style-type: none; padding: 0;">
+  <p  align="left">
+  Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/wave.gif" alt="Hello waving" width="25" style="vertical-align: middle; margin-right: 10px;">
+</p>
     <li>🔭 I’m currently working on MERN stack</li>
     <li>🌱 I’m currently learning UI/UX</li>
     <li>👯 I’m looking to collaborate on System Design</li>
@@ -31,7 +34,7 @@ Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSha
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FFC0CB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=B90E0AFF)
 
  
 - Working on zero-shot urban object recognition. 
@@ -44,11 +47,15 @@ Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSha
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
-<h3 align="left">Contact me here:</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&weight=300&duration=3000&pause=1000&color=B90E0A&random=false&width=435&lines=Connect+with+Me;While+I%E2%80%99m+Still+a+Human+and+Not+a+Robot)
+<img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Connection-logo-unscreen.gif">
 <p align="left">
-<a href="https://www.linkedin.com/in/salonisharma2001/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="salonisharma2001" height="50" width="50" /></a>
-<a href="https://www.salonisharma2001.github.io" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a>
-<a href="mailto:saloni2019sharma@gmail.com" target="blank"><img align="center" src="https://cdn.dribbble.com/users/361933/screenshots/1945591/mail.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
+<a href="https://www.linkedin.com/in/salonisharma2001/" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Linkdein_logo.gif" alt="Linkedin" height="50" width="50"/></a>
+<a href="mailto:saloni2019sharma@gmail.com" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Gmail_logo.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
+<a href="https://discord.gg/U9ZzhQvj" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Discord_logo.gif" alt="Discord" height="50" width="50"/></a>
+<a href="https://medium.com/@saloni2019sharma" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Medium_logo.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
+<a href="https://github.com/SaloniSharma2001/SaloniSharma2001/" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/github_gif.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
+<!-- <a href="https://www.salonisharma2001.github.io" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a> -->
 </p>
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
@@ -58,7 +65,8 @@ Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSha
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
@@ -75,7 +83,8 @@ Hola Amigos, Saloni here <img src="https://github.com/SaloniSharma2001/SaloniSha
 
 <h3 align="left">Some GitHub Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniSharma2001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=shadow_red&title_color=F40009&text_color=bebebe&icon_color=9E0808DB" width="400" height="250" alt="SaloniSharma2001" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniSharma2001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=shadow_red&title_color=F40009&text_color=bebebe&icon_color=9E0808DB" width="400" height="250" alt="SaloniSharma2001" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniSharma2001&show_icons=true&theme=shadow_red" width="400" height="250" alt="SaloniSharma2001" />
 </p>
 
