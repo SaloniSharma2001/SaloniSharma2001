@@ -41,6 +41,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Work:&color=FF0800&size=22)
 
+<img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/My_work.gif">
 
 - Working on the security of international trade and transportation of products. 
 
