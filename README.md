@@ -63,7 +63,7 @@
 <a href="mailto:saloni2019sharma@gmail.com" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Gmail_logo.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
 <a href="https://discord.gg/U9ZzhQvj" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Discord_logo.gif" alt="Discord" height="50" width="50"/></a>
 <a href="https://medium.com/@saloni2019sharma" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Medium_logo.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
-<a href="https://github.com/SaloniSharma2001/SaloniSharma2001/" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/github_gif.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
+<a href="https://github.com/SaloniSharma2001/" target="blank"><img align="center" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/github_gif.gif" alt="saloni2019sharma@gmail.com" height="50" width="65"/></a>
 <!-- <a href="https://www.salonisharma2001.github.io" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a> -->
 </p>
 
@@ -108,4 +108,6 @@
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&duration=2000&pause=2000&color=FF000D&random=false&width=1300&lines=If+I+had+a+penny+for+every+line+of+code+I've+written%2C+I'd+be+dropping+beats+as+a+DJ+instead+of+debugging!")
-<img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg">
+<a href="https://open.spotify.com/track/0wlVropyv3VsqG5HepMfu2?si=17b4a265e3114abd">
+    <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg" alt="Music Image">
+</a>
