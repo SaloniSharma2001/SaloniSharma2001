@@ -6,8 +6,9 @@
   <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_Hola_Amigos.gif">
 </p>
 
-<p align="center"> 
- 👋 Welcome to my GitHub repository! I’d tell you a joke about UDP, but you might not get it—or maybe you will; it’s unpredictable.
+<p align="center">
+  👋 <strong>Welcome to my GitHub repository!</strong><br>
+  I’d tell you a joke about <strong>UDP</strong>, but you might not get it—or maybe you will; it’s unpredictable.
 </p>
 
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
