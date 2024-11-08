@@ -103,11 +103,11 @@
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
 <!--<h3 align="left">Some GitHub Statistics:</h3> -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+GitHub+Statistics:&color=FF0800&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Peek+Into+Dev+Dash:&color=FF0800&size=22)
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniSharma2001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=shadow_red&title_color=F40009&text_color=bebebe&icon_color=9E0808DB&border_color=E6000C" width="400" height="250" alt="SaloniSharma2001" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniSharma2001&show_icons=true&theme=shadow_red&fire=FF000D&sideLabels=FF2400&currStreakLabel=bebebe&stroke=e6000c&border=E6000C&date_color=FFA500" width="400" height="250" alt="SaloniSharma2001" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaloniSharma2001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en&theme=shadow_red&title_color=F40009&text_color=bebebe&icon_color=9E0808DB&border_color=E6000C" width="500" height="300" alt="SaloniSharma2001" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniSharma2001&show_icons=true&theme=shadow_red&fire=FF000D&sideLabels=FF2400&currStreakLabel=bebebe&stroke=e6000c&border=E6000C&date_color=FFA500" width="450" height=300" alt="SaloniSharma2001" />
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SaloniSharma2001&label=Profile%20views&color=F40009&style=flat" alt="SaloniSharma2001" />
