@@ -70,7 +70,7 @@
 <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/rgb_line.gif" height="20" width="100%">
 
 <!--<h3 align="left">Languages & Skills:</h3> -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Languages+And+Skills:&color=FF0800&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Skills+And+Programming+Tongues:&color=FF0800&size=22)
 <img align="right" alt="Coding" width="170" height="150" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/walking-code.gif">
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
