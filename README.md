@@ -72,7 +72,7 @@
 <!--<h3 align="left">Languages & Skills:</h3> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Languages+And+Skills:&color=FF0800&size=22)
 
-<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="bash" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -87,7 +87,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+And+FrameWorks:&color=FF0800&size=22)
 <p align="left">
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/Node%20JS%20Logo.png" alt="nodejs" width="45" height="45"/> </a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/hibernate.svg" alt="hibernate" width="45" height="45"/> </a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/hibernate.svg" alt="hibernate" width="45" height="40"/> </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="45" height="45"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/Spring%20Logo_prev_ui.png" alt="spring" width="45" height="45"/> </a>
 <!--
