@@ -72,7 +72,7 @@
 
 <!--<h3 align="left">Languages & Skills:</h3> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Skills+And+Programming+Tongues:&color=FF0800&size=22)
-<img align="right" alt="Coding" width="170" height="150" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/walking-code.gif">
+<img align="right" alt="Coding" width="150" height="150" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/walking-code.gif">
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/hd-java-coffee-cup-logo-transparent-png-removebg-preview.png" alt="java" width="70" height="70"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -86,6 +86,7 @@
 
 <!--<h3 align="left">Tools & Frameworks:</h3> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tools+And+FrameWorks:&color=FF0800&size=22)
+<img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Framework-unscreen.gif">
 <p align="left">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/React-icon.png" alt="React" width="55" height="55"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/Node%20JS%20Logo.png" alt="nodejs" width="45" height="45"/> </a>
