@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_Hola_Amigos.gif">
+  <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_Hola_Amigos.gif" border="2">
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 <!--<h3 align="left">Languages & Skills:</h3> -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Skills+And+Programming+Tongues:&color=FF0800&size=22)
-<img align="right" alt="Coding" width="150" height="150" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/walking-code.gif">
+<img align="right" alt="Coding" width="250" height="250" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/coding.gif">
 <p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/hd-java-coffee-cup-logo-transparent-png-removebg-preview.png" alt="java" width="70" height="70"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -122,5 +122,5 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&duration=2000&pause=2000&color=FF000D&random=false&width=1300&lines=If+I+had+a+penny+for+every+line+of+code+I've+written%2C+I'd+be+dropping+beats+as+a+DJ+instead+of+debugging!")
 <a href="https://open.spotify.com/track/0wlVropyv3VsqG5HepMfu2?si=17b4a265e3114abd">
-    <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg" alt="Music Image">
+    <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg" style="box-shadow: 0 4px 12px rgba(0,0,0,0.5);" alt="Music Image" border="2">
 </a>
