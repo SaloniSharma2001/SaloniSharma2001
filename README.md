@@ -134,5 +134,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&duration=2000&pause=2000&color=FF000D&random=false&width=1300&lines=If+I+had+a+penny+for+every+line+of+code+I've+written%2C+I'd+be+dropping+beats+as+a+DJ+instead+of+debugging!")
 <a href="https://open.spotify.com/track/0wlVropyv3VsqG5HepMfu2?si=17b4a265e3114abd">
-    <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg" style="box-shadow: 0 4px 12px rgba(0,0,0,0.5);" alt="Music Image" border="2">
+<table align="center">
+  <tr>
+    <td style="border: 3px solid red; border-radius: 8px; padding: 10px;">
+     <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/Dante_music.jpg" style="box-shadow: 0 4px 12px rgba(0,0,0,0.5);" alt="Music Image" border="2">
+    </td>
+  </tr>
+</table>
+   
 </a>
