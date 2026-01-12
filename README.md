@@ -101,11 +101,11 @@
 <img align="right" alt="Coding" width="200" src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Connect_icon/Framework-unscreen.gif">
 <p align="left">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/React-icon.png" alt="React" width="55" height="55"/> </a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/angular_gradient.png" alt="angular" width="45" height="45"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/nextjs.png" alt="nextjs" width="45" height="45"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/Node%20JS%20Logo.png" alt="nodejs" width="45" height="45"/> </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/hibernate.svg" alt="hibernate" width="45" height="40"/> </a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="45" height="45"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/Tools%20And%20Frameworks/Spring%20Logo_prev_ui.png" alt="spring" width="45" height="45"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/SaloniSharma2001/SaloniSharma2001/blob/main/image-src/nextjs.png" alt="nextjs" width="45" height="45"/> </a>
 
 <!--
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
